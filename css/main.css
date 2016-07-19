@@ -1,0 +1,50 @@
+.bg {
+    width: 100%;
+    height: 1200px;
+    background: url('../images/123.jpg');
+}
+
+.triplan{
+    padding-top: 50px;
+    text-align: center;
+}
+.white {
+    display: inline-block;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-left: 20px;
+    background: white;
+    width: 200px;
+    height: 300px;
+    
+}
+.navy{
+    padding: 30px;
+    box-sizing: border-box;
+    background: #3333e1;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 200px;
+    height: 140px;
+    
+}
+.itembox{
+    text-align: left;
+}
+    
+.item{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    margin-top: 10px;
+    
+        
+}
+.btn{
+    border: 2px solid #139e9b;
+    border-radius: 5px;
+    
+}    
+
+
+
