@@ -1,12 +1,13 @@
 .bg {
     width: 100%;
-    height: 1200px;
+    height: 1000px;
     background: url('../images/123.jpg');
 }
 
 .triplan{
     padding-top: 50px;
     text-align: center;
+    
 }
 .white {
     display: inline-block;
@@ -21,12 +22,12 @@
 .navy{
     padding: 30px;
     box-sizing: border-box;
-    background: #3333e1;
+    background: #2e63d8;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     width: 200px;
-    height: 140px;
-    
+    height: 160px;
+    color: #fff;
 }
 .itembox{
     text-align: left;
@@ -41,10 +42,22 @@
         
 }
 .btn{
-    border: 2px solid #139e9b;
-    border-radius: 5px;
+    border: 2px solid white;
+    border-radius: 4px;
     
 }    
-
+.txt {
+    padding-top: 10px;
+    font-size: 60px;
+}
+.txt span {
+    padding-right: 5px;
+    font-size:25px;
+    vertical-align: super;
+}
+.txt a {
+    padding-right: 5px;
+    font-size:25px;
+    vertical-align: bottom;
 
 
