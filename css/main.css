@@ -38,6 +38,8 @@
     margin-right: auto;
     width: 100px;
     margin-top: 10px;
+    border-bottom: 2px  solid rgba(83, 70, 70, 0.17);
+    padding-bottom: 2px;
     
         
 }
